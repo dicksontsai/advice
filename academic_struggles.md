@@ -9,12 +9,14 @@
   1. [Long To-Do List](#todo)
   1. [Anxiety](#anxiety)
 * General Advice
+
 ## Format
 * Source
 * Why it's a problem
 * Solutions
 
 ## Issues (in no particular order)
+<a name="perfectionism"></a>
 ### [perfectionism] Perfectionism ###
 * People don’t like to get things wrong
 * Problems:
